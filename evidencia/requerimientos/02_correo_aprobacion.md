@@ -5,7 +5,7 @@
 > Abajo queda el texto de referencia del correo que se intercambió.
 
 **De:** Luis Mora &lt;lucho.salsas@example.com&gt;
-**Para:** Gerom Watson Araya &lt;davidpc@adelante.cr&gt;
+**Para:** Gerom Watson Araya &lt;[tu correo]&gt;
 **CC:** [profesor]@tec.ac.cr
 **Asunto:** RE: Autorización proyecto BI — Las Salsas de Lucho
 **Fecha:** ____/____/2026
