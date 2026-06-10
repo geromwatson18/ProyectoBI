@@ -1,0 +1,138 @@
+id_cliente,nombre_cliente,tipo_cliente,provincia,fecha_registro,segmento_origen
+1,Cliente Contado,Minorista,San Jose,,Walk-in
+2,Pulperia La Esquina (Desamparados),Mayorista,San Jose,,Comercio
+3,Mini Super El Cruce (Aserri),Mayorista,SAN JOSE,2021-10-13,Comercio
+4,Soda Dona Tere (San Pedro),Mayorista,San Jose,2024-01-22,Comercio
+5,Restaurante El Fogon (Escazu),Mayorista,San Jose,2021-03-07,Comercio
+6,Super Las Brisas (Hatillo),Mayorista,San Jose,,Comercio
+7,Abastecedor San Blas (Tibas),Mayorista,san jose,2021-02-24,Comercio
+8,Soda La U (Montes de Oca),Mayorista, San Jose ,2024-08-23,Comercio
+9,Minimercado Santa Ana Centro,Mayorista, San Jose ,2023-07-09,Comercio
+10,Pulperia Don Beto (Moravia),Mayorista, San Jose ,2021-01-14,Comercio
+11,Macrobiotica Vida Sana (Curridabat),Mayorista,san jose,2022-11-28,Comercio
+12,Restaurante Sabor Tico (Zapote),Mayorista,SAN JOSE,2025-04-13,Comercio
+13,Verduleria El Mercadito (Pavas),Mayorista,SAN JOSE,,Comercio
+14,Super Mora (Ciudad Colon),Mayorista,S.J.,,Comercio
+15,Soda El Parque (Goicoechea),Mayorista,SAN JOSE,2021-03-30,Comercio
+16,Mini Super Alajuelita Centro,Mayorista,S.J.,2023-02-15,Comercio
+17,Cafeteria Central (Perez Zeledon),Mayorista,San Jose,2024-07-11,Comercio
+18,Pulperia La Bendicion (Guadalupe),Mayorista, San Jose ,2023-01-11,Comercio
+19,Restaurante Casa Vieja (Sabana),Mayorista, San Jose ,2021-05-23,Comercio
+20,Super El Ahorro (Alajuela Centro),Mayorista,Alajuela,2025-05-03,Comercio
+21,Pulperia La Amistad (San Ramon),Mayorista,alajuela,2022-04-22,Comercio
+22,Mini Super Grecia,Mayorista,Alajuela,2023-07-18,Comercio
+23,Soda Las Palmas (Atenas),Mayorista,ALAJUELA,2021-11-30,Comercio
+24,Abastecedor Naranjo Centro,Mayorista,alajuela,2024-10-04,Comercio
+25,Restaurante El Mirador (Poas),Mayorista,alajuela,2024-10-31,Comercio
+26,Super Palmares,Mayorista,ALAJUELA,,Comercio
+27,Minimercado Orotina,Mayorista,ALAJUELA,2025-02-02,Comercio
+28,Pulperia El Progreso (Ciudad Quesada),Mayorista,Alajuela,2023-02-17,Comercio
+29,Verduleria Zarcero Fresco,Mayorista,alajuela,2024-08-03,Comercio
+30,Soda Sarchi Tipico,Mayorista,ALAJUELA,2024-11-03,Comercio
+31,Mini Super Upala,Mayorista,alajuela,2025-05-09,Comercio
+32,Restaurante La Carreta (San Mateo),Mayorista,Alajuela,2021-03-07,Comercio
+33,Pulperia La Basilica (Cartago Centro),Mayorista,CARTAGO,2021-05-16,Comercio
+34,Mini Super Tres Rios (La Union),Mayorista,cartago,2024-03-07,Comercio
+35,Soda El Volcan (Paraiso),Mayorista,CARTAGO,2023-10-20,Comercio
+36,Restaurante Turrialtico (Turrialba),Mayorista, Cartago,2024-08-09,Comercio
+37,Super Oreamuno,Mayorista, Cartago,2021-10-13,Comercio
+38,Abastecedor El Guarco,Mayorista,cartago,2024-01-09,Comercio
+39,Verduleria Cervantes Fresco,Mayorista,CARTAGO,2023-05-28,Comercio
+40,Pulperia Pacayas Centro,Mayorista, Cartago,2021-10-11,Comercio
+41,Minimercado Cipreses,Mayorista, Cartago,,Comercio
+42,Soda La Plaza (Tejar),Mayorista,Cartago,2021-11-10,Comercio
+43,Restaurante El Quijongo (Cot),Mayorista,cartago,2023-05-15,Comercio
+44,Super Heredia Centro,Mayorista,HEREDIA,,Comercio
+45,Pulperia Barva Vieja,Mayorista,heredia,2023-08-17,Comercio
+46,Mini Super San Rafael,Mayorista,HEREDIA,2024-02-08,Comercio
+47,Soda La Estacion (San Joaquin),Mayorista,Heredia,2021-08-23,Comercio
+48,Abastecedor Belen,Mayorista,HEREDIA,2025-03-18,Comercio
+49,Restaurante El Tigre Vestido (Santa Barbara),Mayorista,heredia,2022-11-28,Comercio
+50,Verduleria Santo Domingo Fresco,Mayorista,Heredia,2021-11-20,Comercio
+51,Minimercado Mercedes Norte,Mayorista,heredia,,Comercio
+52,Pulperia San Isidro Centro,Mayorista,HEREDIA,2022-06-24,Comercio
+53,Soda Flores Tico,Mayorista,HEREDIA,2023-11-06,Comercio
+54,Super Liberia Centro,Mayorista,Guanacaste,2022-09-04,Comercio
+55,Pulperia Nicoya Vieja,Mayorista,GUANACASTE,2022-02-12,Comercio
+56,Mini Super Santa Cruz,Mayorista,Guanacaste,2021-11-27,Comercio
+57,Soda La Guaria (Canas),Mayorista,GUANACASTE,2023-12-23,Comercio
+58,Restaurante Marisco Azul (Filadelfia),Mayorista,Guanacaste,2023-09-28,Comercio
+59,Abastecedor Bagaces,Mayorista,Guanacaste,2023-01-14,Comercio
+60,Minimercado Tilaran,Mayorista,guanacaste,2022-05-09,Comercio
+61,Pulperia La Cruz Centro,Mayorista,GUANACASTE,2021-06-25,Comercio
+62,Soda Playas del Coco,Mayorista,GUANACASTE,2021-05-22,Comercio
+63,Super Tamarindo Beach,Mayorista,GUANACASTE,2021-09-20,Comercio
+64,Marisqueria Mar Azul (Puntarenas),Mayorista,puntarenas,2021-12-05,Comercio
+65,Pulperia El Roble (Esparza),Mayorista,puntarenas,2024-05-27,Comercio
+66,Mini Super Quepos Centro,Mayorista,puntarenas,2024-01-10,Comercio
+67,Soda Jaco Beach (Garabito),Mayorista,Puntarenas,2023-03-29,Comercio
+68,Restaurante El Pescador (Golfito),Mayorista,puntarenas,2023-11-26,Comercio
+69,Abastecedor Ciudad Cortes (Osa),Mayorista,puntarenas,2022-04-06,Comercio
+70,Minimercado Ciudad Neily,Mayorista,Puntarenas,2024-04-19,Comercio
+71,Pulperia Parrita Centro,Mayorista,Puntarenas,2021-01-15,Comercio
+72,Super Buenos Aires,Mayorista,Puntarenas,2021-05-01,Comercio
+73,Soda El Muelle (Caldera),Mayorista,Puntarenas,,Comercio
+74,Pulperia Caribe (Limon Centro),Mayorista,Limon,2021-05-26,Comercio
+75,Mini Super Guapiles (Pococi),Mayorista,LIMON,2024-10-02,Comercio
+76,Soda Calypso (Siquirres),Mayorista,limon,2021-09-28,Comercio
+77,Restaurante Bribri Tipico (Talamanca),Mayorista,LIMON,2024-03-15,Comercio
+78,Abastecedor Matina,Mayorista,LIMON,2025-05-26,Comercio
+79,Minimercado Guacimo,Mayorista,limon,2022-01-25,Comercio
+80,Super Cahuita Beach,Mayorista,Limon,,Comercio
+81,Pulperia Puerto Viejo,Mayorista,limon,2023-04-22,Comercio
+82,Soda Estrada (Pueblo Nuevo),Mayorista,limon,2021-04-21,Comercio
+83,Restaurante Miss Edith (Cahuita),Mayorista,LIMON,2024-08-16,Comercio
+84,Distribuidora Tica de Abarrotes (Heredia),Mayorista,Heredia,,Comercio
+85,Comercializadora del Valle (Cartago),Mayorista,CARTAGO,2021-08-12,Comercio
+86,Mayorista La Economia (San Jose),Mayorista,san jose,2024-01-04,Comercio
+87,Super Compro (Alajuela),Mayorista,alajuela,2022-01-11,Comercio
+88,Distribuidora Pacifico (Puntarenas),Mayorista,puntarenas,2021-06-04,Comercio
+89,Mayoreo del Caribe (Limon),Mayorista,limon,2024-02-02,Comercio
+90,Abastecedor Pampa (Guanacaste),Mayorista,Guanacaste,,Comercio
+91,Comercial El Guapileno (Pococi),Mayorista,LIMON,2021-07-11,Comercio
+92,Distribuidora San Carlos (Ciudad Quesada),Mayorista,Alajuela,2023-09-22,Comercio
+93,Super Mayoreo Curridabat,Mayorista,S.J.,2023-04-02,Comercio
+94,Mercadito Organico (Santa Ana),Mayorista,San Jose,2021-01-05,Comercio
+95,"Feria Verde (Aranjuez, San Jose)",Mayorista,S.J.,2025-05-25,Comercio
+96,Feria del Agricultor de Heredia,Mayorista,heredia,2024-11-27,Comercio
+97,Feria del Agricultor de Cartago,Mayorista, Cartago,2022-08-31,Comercio
+98,Diego Mora,Minorista,GUANACASTE,2025-02-04,Consumidor
+99,Andres Mora,Minorista, San Jose ,2025-07-30,Consumidor
+100,Rodrigo Rojas,Minorista, San Jose ,,Consumidor
+101,Sofia Jimenez,Minorista,Guanacaste,2023-08-29,Consumidor
+102,Mauricio Jimenez,Minorista,Guanacaste,2023-02-10,Consumidor
+103,Luis Chaves,Minorista,puntarenas,2023-07-29,Consumidor
+104,Andres Vargas,Minorista,heredia,2024-10-22,Consumidor
+105,Karla Quiros,Minorista,Heredia,,Consumidor
+106,Marta Jimenez,Minorista,Guanacaste,2023-05-16,Consumidor
+107,Gabriela Jimenez,Minorista,CARTAGO,2024-03-24,Consumidor
+108,Paula Castro,Minorista,GUANACASTE,2024-11-14,Consumidor
+109,Paula Castro,Minorista,Puntarenas,2023-05-18,Consumidor
+110,Pedro Jimenez,Minorista, San Jose ,2023-10-16,Consumidor
+111,Diego Soto,Minorista,CARTAGO,2023-09-15,Consumidor
+112,Jose Jimenez,Minorista,puntarenas,2023-02-15,Consumidor
+113,Ana Soto,Minorista,Limon,2023-09-26,Consumidor
+114,Sofia Quiros,Minorista,GUANACASTE,2023-01-10,Consumidor
+115,Marta Jimenez,Minorista,Puntarenas,2025-05-04,Consumidor
+116,Gabriela Solano,Minorista,Guanacaste,2023-02-12,Consumidor
+117,Karla Soto,Minorista,Limon,2023-08-04,Consumidor
+118,Laura Jimenez,Minorista,HEREDIA,2024-02-21,Consumidor
+119,Carlos Vargas,Minorista,Limon,2025-04-10,Consumidor
+120,Sofia Chaves,Minorista,san jose,2023-12-07,Consumidor
+121,Daniela Vargas,Minorista,Heredia,2023-04-21,Consumidor
+122,Mauricio Mora,Minorista,limon,2025-04-16,Consumidor
+123,Esteban Soto,Minorista,Heredia,2024-11-06,Consumidor
+124,Diego Chaves,Minorista,heredia,2025-09-17,Consumidor
+125,Pedro Soto,Minorista,puntarenas,2025-05-13,Consumidor
+126,Paula Soto,Minorista,San Jose,2023-09-25,Consumidor
+127,Sofia Solano,Minorista,Heredia,2024-03-20,Consumidor
+128,Gabriela Soto,Minorista,ALAJUELA,2023-04-29,Consumidor
+129,Mauricio Solano,Minorista,CARTAGO,,Consumidor
+130,Daniela Mora,Minorista,GUANACASTE,2025-08-20,Consumidor
+131,Diego Soto,Minorista,Alajuela,2025-07-31,Consumidor
+132,Andres Solano,Minorista,HEREDIA,2025-01-07,Consumidor
+133,Karla Mena,Minorista,HEREDIA,2024-02-17,Consumidor
+134,Karla Mena,Minorista,cartago,2025-08-20,Consumidor
+135,Mauricio Rojas,Minorista,GUANACASTE,2024-07-15,Consumidor
+136,Ana Castro,Minorista,Heredia,2024-08-16,Consumidor
+137,Andres Quiros,Minorista,alajuela,2024-06-07,Consumidor

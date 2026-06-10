@@ -1,0 +1,11 @@
+id_producto,nombre_producto,id_categoria,presentacion_ml,precio_lista,costo_unitario,es_estrella
+101,Salsa Picante Habanero Lucho,1,200,3000,1150,1
+102,Chilero Criollo Lucho,1,200,3000,1100,1
+103,Salsa de Ajo Lucho,2,200,3000,1250,1
+104,Salsa Mango-Habanero,3,200,3000,1500,0
+105,Salsa BBQ Tamarindo,3,200,3000,1480,0
+106,Salsa Chipotle Dulce,1,200,3000,1420,0
+107,Salsa Verde Jalapeno,1,200,3000,1350,0
+108,Aderezo Cilantro-Limon,2,200,3000,1380,0
+109,Salsa Inferno Carolina Reaper,3,200,3000,1650,0
+110,Salsa Curry Tropical,3,200,3000,1550,0

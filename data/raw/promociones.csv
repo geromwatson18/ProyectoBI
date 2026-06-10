@@ -1,0 +1,6 @@
+id_promocion,nombre_promocion,descuento_pct
+0,Sin promocion,0.0
+1,Descuento mayoreo,0.1
+2,Combo feria 2x,0.15
+3,Temporada alta,0.08
+4,Liquidacion lenta,0.25
