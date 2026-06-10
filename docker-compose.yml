@@ -1,0 +1,16 @@
+# Levanta PostgreSQL con las dos bases del proyecto (operacional y dimensional).
+# Uso:  docker compose up -d
+services:
+  postgres:
+    image: postgres:16
+    container_name: salsas_pg
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - salsas_pgdata:/var/lib/postgresql/data
+      - ./sql/00_crear_bases.sql:/docker-entrypoint-initdb.d/00_crear_bases.sql
+volumes:
+  salsas_pgdata:

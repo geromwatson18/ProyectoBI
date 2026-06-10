@@ -1,0 +1,9 @@
+# Dependencias del proyecto BI "Las Salsas de Lucho"
+pandas>=2.0
+numpy>=1.24
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9        # driver PostgreSQL
+python-dateutil>=2.8
+matplotlib>=3.7             # diagramas / graficos de evidencia
+streamlit>=1.30            # dashboard analitico
+plotly>=5.18               # visualizaciones del dashboard

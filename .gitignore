@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+data/processed/*.db
+*.log
+# Conservar las bitacoras del ETL:
