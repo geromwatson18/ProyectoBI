@@ -1,0 +1,16 @@
+regla,descripcion,registros_afectados
+R10,Tipado/estandarizacion de formatos (fechas y moneda),8710
+R1,dim_tiempo construida (dias de calendario),731
+R2,Llaves subrogadas dim_producto,10
+R3,Homologacion de nombres de producto,10
+R3,Homologacion de canal + miembro No identificado,5
+R2,Llaves subrogadas dim_vendedor/dim_promocion,9
+R4,Antiguedad de cliente (nulos imputados por mediana),16
+R5,Segmentacion de clientes (RFM simplificado),137
+R7,Deduplicacion de lineas de venta,24
+R8,Lineas con cantidad <=0 descartadas (devoluciones mal registradas),18
+R6,"Outliers de cantidad descartados (IQR por canal, piso 50 uds)",24
+R8,Costo unitario nulo imputado desde catalogo,212
+R9,Lineas con cliente inexistente -> miembro No identificado,17
+R8,"fact_ventas: medidas derivadas (neto, costo, margen)",4989
+R1,fact_inventario: rotacion y dias de inventario derivados,240

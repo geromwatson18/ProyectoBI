@@ -1,0 +1,10 @@
+dimension_calidad,hallazgo,registros
+Completitud,Clientes con fecha_registro nula/vacia,16
+Completitud,Ventas con canal_texto nulo/vacio,40
+Completitud,Lineas con costo_unitario nulo,215
+Validez,Lineas con cantidad <= 0,18
+Validez,Lineas con cantidad atipica (>500),24
+Unicidad,Lineas duplicadas exactas (clave natural id_venta+producto+cant),24
+Integridad,Ventas con id_cliente inexistente (FK rota),15
+Consistencia,Variantes de texto distintas en provincia (cliente),23
+Consistencia,Variantes de texto distintas en canal_texto,19
